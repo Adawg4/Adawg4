@@ -4,6 +4,7 @@
  - 📧 **Creator of [Hitsnag](https://hitsnag.com), [Pinpoint.city](https://pinpoint.city), and many more things!**
  - ✌ **KP Fellow**
  - 🏢 **Previously at AtlantaVentures/ATDC/Cherry**
+
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adawg4&layout=compact&theme=algolia" />
 
