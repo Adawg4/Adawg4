@@ -5,9 +5,6 @@
  - ✌ **KP/Z/Neo/8VC Fellow**
  - 🏢 **Previously at AtlantaVentures/ATDC/Cherry**
 
- 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adawg4&layout=compact&theme=algolia" />
-
 
 #### Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
